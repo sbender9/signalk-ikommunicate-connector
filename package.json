@@ -1,0 +1,21 @@
+{
+  "name": "signalk-ikommunicate-connector",
+  "version": "1.0.0",
+  "description": "SignalK Node Server plugin to get data from an iKommunicate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "scott@scottbender.net",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ws": "^7.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbender9/signalk-ikommunicate-connector"
+  }
+}
